@@ -1,0 +1,25 @@
+{
+  "name": "uswds",
+  "version": "6.14.5",
+  "description": "package.json",
+  "main": "npn-install f:\\brian\\zbz\\web\\sites\\uswds\\UsWdsTests\\Try with code\\codetry\\assets\\uswds-2.7.0",
+  "scripts": {
+    "test": "yes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "uswds"
+  ],
+  "author": "Open Source",
+  "license": "MIT",
+  "dependencies": {
+    "dredd": "^13.1.1"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^7.0.1",
+    "sass": "^1.26.8"
+  }
+}
